@@ -20,6 +20,6 @@
 ## Скриншоты
 
 <p align="center">
-  <img src="screen-light.png" alt="Светлая тема" width="1000" height="1628" />
-  <img src="screen-dark.png" alt="Темная тема" width="1000" height="1628" />
+  <img src="screen-light.png" alt="Светлая тема" />
+  <img src="screen-dark.png" alt="Темная тема" />
 </p>
