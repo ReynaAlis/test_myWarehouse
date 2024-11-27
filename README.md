@@ -21,6 +21,5 @@
 
 <p align="center">
   <img src="screen-light.png" alt="Светлая тема" width="45%" />
-  <img src="https://via.placeholder.com/20x1.png" alt="Отступ" width="20" height="1" />
   <img src="screen-dark.png" alt="Темная тема" width="45%" />
 </p>
